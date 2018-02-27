@@ -12,13 +12,13 @@ test cases, followed by one line for each test case. The line for a test case co
 
 There should be one output line per test case containing the digit located in position i.
 
-Sample input:
-3
-8
-3
-21
+Sample input:  
+3  
+8  
+3  
+21  
 
-Sample output:
-2
-2
-6
+Sample output:  
+2  
+2  
+6  
