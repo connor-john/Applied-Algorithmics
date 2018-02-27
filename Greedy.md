@@ -8,20 +8,20 @@ be non-negative.
 
 The input should be taken from keyboard/stdin/System.in.
 
-Sample Input:
-2 4 8
-15 0 -5
-6 20 25 5 30
-28 21952 49 294 3822
-0
+Sample Input:  
+2 4 8  
+15 0 -5  
+6 20 25 5 30  
+28 21952 49 294 3822  
+0  
 
 The precisely formated output should be sent to console/stdout/System.out.
 
-Sample Output:
-The gcd of the integers is 2.
-The gcd of the integers is 5.
-The gcd of the integers is 1.
-The gcd of the integers is 7.
+Sample Output:  
+The gcd of the integers is 2.  
+The gcd of the integers is 5.  
+The gcd of the integers is 1.  
+The gcd of the integers is 7.  
 
 
 ### Problem Statement 2: Minimum Double Pair (as GreedyPairProblem)
@@ -35,17 +35,17 @@ Otherwise output on a line “None”.
 
 The input should be taken from keyboard/stdin/System.in.
 
-Sample Input:
-2 1 3 4
-10 20 40 45 5 15 25
-24 23 8 29 31 5
-10 20 50 51 52 53 54 12 15 16
-0
+Sample Input:  
+2 1 3 4  
+10 20 40 45 5 15 25  
+24 23 8 29 31 5  
+10 20 50 51 52 53 54 12 15 16  
+0  
 
 The output should be sent to console/stdout/System.out.
 
-Sample Output:
-yes: 5
-yes: 25
-None
-yes: 62
+Sample Output:  
+yes: 5  
+yes: 25  
+None  
+yes: 62  
