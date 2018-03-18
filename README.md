@@ -1,5 +1,5 @@
 # Applied-Algorithmics
-Material created in final year algorithmic's paper.  
+Material created in final year algorithmics paper.  
 Covered the paradigms of programming.  
 
 Deliverables included:  
